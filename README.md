@@ -6,17 +6,18 @@
 ## How To Use:
 #### Desktop: 
 1. Open the file you find interesting.
-2. Use the copy button on the file, or click "Raw" and copy it all.
+2. Use the copy button on the file.
 3. Open the Inspect tool.
 4. Switch to the Console.
 5. Paste the script.
 6. Click enter.
 
 ## Features:
+
 - Default Scripts:
 Add Tokens and XP</a> - Collect the maximum Tokens and XP currently availible.
 All Answers Correct</a> - Always get the correct answer.
-Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the Tampermonkey Version</a>.
+Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the Tampermonkey Version.
 Custom Blooks</a> - Spoof your Custom Blooks with IDs, no matter if you unlocked the accessories or not!
 Flood Game</a> - Flood the game that you are in.
 Manipulate Plus</a> - Gives you access in a spoof to play gamemodes that only Plus and/or Plus Flex members can play.
@@ -103,13 +104,7 @@ Set Health</a> - Set your health to whatever you want.
 Max Stats</a> - Maximize your cards' stats.
 
 
-#### I am not responsible for your actions with these cheats use at your own risk.
+## I am not responsible for your actions with these cheats use at your own risk.
 
 
-#### Made by MCFEARJNR & HACKER10987654673
-
-
-#### BY USING THESE CHEATS YOU UNDER STAND THAT USING THESE FOR AN UNFAIR ADVANTAGE AGAIST OTHERS IS NOT WHAT THESE ARE IMPLEMENTED FOR AND THEY SHOULD BE USED FOR DEVELOPMENT USE ONLY, I WILL HAPPILY TAKE THESE DOWN AT BLOOKETS REQUEST.
-
-
-
+## Made by MCFEARJNR
