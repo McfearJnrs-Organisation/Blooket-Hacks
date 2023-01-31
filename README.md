@@ -1,6 +1,6 @@
 <h1 align="center">Blooket Hacks</h1>
 <h3 align="center">The best Blooket hacks.</h3>
-<h3 align="center">MADE BY RXZYX FORKED BY MCFEARJNR</h3>
+<h3 align="center">MADE BY RXZYX</h3>
 <h3 align="center">Version: 2.7
 
 ## How To Use:
@@ -131,6 +131,6 @@ Max Stats</a> - Maximize your cards' stats.
 
 
 
-<h1 align="center">Made by rxzyx forked by McfearJnr</h1>
+<h1 align="center">Made by rxzyx</h1>
 <h1 align="center">Original taken down due to DMCA</h1>
 <h1 align="center">I am not responsible for your actions when using cheats.</h1>
