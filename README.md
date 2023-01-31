@@ -14,7 +14,7 @@
 
 ## Features:
 
-- Default Scripts:
+## Default Scripts:
   
 Add Tokens and XP</a> - Collect the maximum Tokens and XP currently availible.
 
@@ -38,8 +38,8 @@ Bypass Random Nickname</a> - Set your random nickname in a live game.
 
 
 
-- Host:
-- 
+## Host:
+
 End Game</a> - End the game.
 
 Kick All</a> - Kick all players that are currently in the game.
@@ -48,24 +48,24 @@ Remove Player</a> - Remove a specific player from a game.
 
 
 
-- Flappy Blook (game to play while waiting for host to start):
-- 
+## Flappy Blook (game to play while waiting for host to start):
+
 Remove Pipes</a> - Removes all the pipes.
 
 Set Score</a> - Set your score to whatever you want.
 
 
 
-- Gold Quest:
-- 
+## Gold Quest:
+ 
 Chest ESP</a> - See through Chests.
 
 Set Gold</a> - Set your Gold to whatever you want.
 
 
 
-- Monster Brawl:
-- 
+## Monster Brawl:
+ 
 Invincibility</a> - Never take damage from enemies.
 
 Max Abilities</a> - Set all your current abilities' level to 9.
@@ -76,8 +76,8 @@ Set XP</a> - Set your XP to whatever you want.
 
 
 
-- Crypto Hack:
-- 
+## Crypto Hack:
+
 Auto Input Password</a> - Automatically inputs the right password in during a hack.
 
 Set Crypto</a> - Set your crypto to whatever you want.
@@ -86,8 +86,8 @@ Set Password</a> - Set your password to whatever you want.
 
 
 
-- Fishing Frenzy:
-- 
+## Fishing Frenzy:
+ 
 Set Weight</a> - Set your weight to whatever you want.
 
 Set Frenzy Mode</a> - Set the mode to Frenzy.
@@ -96,23 +96,23 @@ Set Lure Rank</a> - Set your lure rank to whatever you want.
 
 
 
-- Deceptive Dinos:
-- 
+## Deceptive Dinos:
+ 
 Set Fossils</a> - Set your fossils to whatever you want.
 
 Fossil Multiplier</a> - Set your fossil multiplier to whatever you want.
 
 
-- Blook Rush:
-- 
+## Blook Rush:
+
 Set Blooks</a> - Set your blooks to whatever you want
 
 Set Defense</a> - Set your defense to whatever you want.
 
 
 
-- Tower Defense:
-- 
+## Tower Defense:
+
 Clear Enemies</a> - Clear the enemies on the screen.
 
 Overpowered Towers</a> - Make all of your towers overpowered.
@@ -127,8 +127,8 @@ Set Round</a> - Set the round to whatever you want.
 
 
 
-- Café:
-- 
+## Café:
+
 Set Cash</a> - Set your cash.
 
 Max Level Items</a> - Set the items you have to the maximum level.
@@ -137,8 +137,8 @@ Stock Unlimited Food</a> - Set the stock of each currently unlocked food to 99.
 
 
 
-- Factory:
-- 
+## Factory:
+
 Add Mega Bot</a> - Set all factory cards to Mega Bot. (BROKEN)
 
 Block Warnings</a> - Never receive in-game warnings.
@@ -148,13 +148,13 @@ Set Cash</a> - Set your cash to whatever you want.
 
 
 
-- Racing:
--
+## Racing:
+
 Instant Win</a> - Win racing. <I>(NOTE: Once the hack is used, get one question right to win)</I
 
 
-- Tower of Doom:
-- 
+## Tower of Doom:
+  
 Bad Enemy</a> - Minimize the opponent's cards' stats.
 
 Set Coins</a> - Set your coins to whatever you want.
@@ -168,4 +168,6 @@ Max Stats</a> - Maximize your cards' stats.
 ## I am not responsible for your actions with these cheats use at your own risk.
 
 
-## Made by MCFEARJNR
+## Forked by McfearJnr
+
+## Original by Rxzy (Removed for DMCA)
