@@ -16,15 +16,25 @@
 
 - Default Scripts:
 Add Tokens and XP</a> - Collect the maximum Tokens and XP currently availible.
+
 All Answers Correct</a> - Always get the correct answer.
+
 Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the Tampermonkey Version.
+
 Custom Blooks</a> - Spoof your Custom Blooks with IDs, no matter if you unlocked the accessories or not!
+
 Flood Game</a> - Flood the game that you are in.
+
 Manipulate Plus</a> - Gives you access in a spoof to play gamemodes that only Plus and/or Plus Flex members can play.
+
 Select Any Blook</a> - Be able to select any Blook before the game starts, including Mysticals and test Blooks!
+
 Sell all of your duplicate Blooks, so you have one (or zero) of each.
+
 Get Folder</a> - Make a folder in the My-Sets page without the Blooket Plus plan.
+
 Bypass Random Nickname</a> - Set your random nickname in a live game.
+
 
 
 - Host:
