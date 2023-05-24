@@ -2,7 +2,7 @@
 <h3 align="center">The best Blooket hacks.</h3>
 <h3 align="center">MADE BY RXZYX</h3>
 <h3 align="center">Version: 2.7
-<h6 aligh="center">FORKED BY PYTHONAIRS AND EDITED BY PYTHONAIRS
+<h6 align="center">FORKED BY PYTHONAIRS AND EDITED BY PYTHONAIRS
 
 ## How To Use:
 #### Desktop: 
