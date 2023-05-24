@@ -12,7 +12,7 @@ ________________________________
 | 4.8     | :x:                |
 | 4.7     | :x:                |
 | Older...| :x:                |
-|_________|____________________|
+
 ## Agreement
 
 if your using a version which does not supout our anti-ban features, we are 0% responsible for anything that happens to your account when you use that version.
