@@ -135,3 +135,5 @@ Max Stats</a> - Maximize your cards' stats.
 <h1 align="center">Made by rxzyx</h1>
 <h1 align="center">Original taken down due to DMCA</h1>
 <h1 align="center">I am not responsible for your actions when using cheats.</h1>
+<h6 align="center">JUST TO MAKE IT CLEAR, IF BLOOKET WANT ME TO TAKE THIS DOWN I WILL</h6>
+
